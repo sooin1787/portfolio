@@ -94,7 +94,7 @@ body {font-family: 'Open Sans','Noto Sans KR', sans-serif;}
     .m02 .container .mockup {flex: 1}
     .m02 .container .txt {flex:1 ;display: flex;align-items: center;padding: 0 20px 20px 20px;}
 
-    .m02 .container .mockup figure {background: url(./assets/img/tvmockup2.png) no-repeat center top/contain;height: 300px;padding: 80px 79px 0 80px;}
+    .m02 .container .mockup figure {background: url(./assets/img/tvmockup2.png) no-repeat center top/contain;height: 300px;padding: 85px 96px 0 96px;}
 
     .m02 .container .mockup figure .portfolio01 {height: 130px;}
 
@@ -133,7 +133,7 @@ body {font-family: 'Open Sans','Noto Sans KR', sans-serif;}
     .m03 .container .mockup {flex: 1}
     .m03 .container .txt {flex: 1;order:1;display: flex;align-items: center;padding: 0 20px 20px 20px;}
 
-    .m03 .container .mockup figure {background: url(./assets/img/tvmockup2.png) no-repeat center top/contain;height: 300px;padding: 80px 79px 0 80px;}
+    .m03 .container .mockup figure {background: url(./assets/img/tvmockup2.png) no-repeat center top/contain;height: 300px;padding: 85px 96px 0 96px;}
 
     .m03 .container .mockup figure .portfolio02 {height: 130px;}
 
@@ -171,7 +171,7 @@ body {font-family: 'Open Sans','Noto Sans KR', sans-serif;}
     .m04 .container .mockup {flex: 1}
     .m04 .container .txt {flex: 1;display: flex;align-items: center;padding: 0 20px 20px 20px;}
 
-    .m04 .container .mockup figure {background: url(./assets/img/tvmockup2.png) no-repeat center top/contain;height: 300px;padding: 80px 79px 0 80px;}
+    .m04 .container .mockup figure {background: url(./assets/img/tvmockup2.png) no-repeat center top/contain;height: 300px;padding: 85px 96px 0 96px;}
 
     .m04 .container .mockup figure .portfolio03 {height: 130px;}
 
@@ -211,7 +211,7 @@ body {font-family: 'Open Sans','Noto Sans KR', sans-serif;}
     .m05 .container .mockup {flex: 1}
     .m05 .container .txt {flex: 1;order:1;display: flex;align-items: center;padding: 0 20px 20px 20px;}
 
-    .m05 .container .mockup figure {background: url(./assets/img/tvmockup2.png) no-repeat center top/contain;height: 300px;padding: 80px 79px 0 80px;}
+    .m05 .container .mockup figure {background: url(./assets/img/tvmockup2.png) no-repeat center top/contain;height: 300px;padding: 85px 96px 0 96px;}
 
     .m05 .container .mockup figure .portfolio04 {height: 130px;}
 
@@ -260,7 +260,7 @@ body {font-family: 'Open Sans','Noto Sans KR', sans-serif;}
     .m06 .container .mockup {flex:9;}
     .m06 .container .txt {flex: 7;display: flex;align-items: center;padding: 0 20px 20px 20px;}
 
-    .m06 .container .mockup figure {background: url(./assets/img/tvmockup2.png)  no-repeat center top/contain;height: 300px;padding: 80px 79px 0 80px;}
+    .m06 .container .mockup figure {background: url(./assets/img/tvmockup2.png)  no-repeat center top/contain;height: 300px;padding: 85px 96px 0 96px;}
     .m06 .container .mockup figure .web {height: 130px;overflow: hidden;}
     .m06 .container .mockup figure .web img {width: 100%;position: relative;transform: translateY(calc(0));transition: none;}
     .m06 .container .mockup figure .web:hover img {transform: translateY(0);}
@@ -361,7 +361,7 @@ body {font-family: 'Open Sans','Noto Sans KR', sans-serif;}
     .m08 .container {display: flex;flex-direction: column;width:auto;margin: 0 auto;}
     .m08 .container .mockup {flex:1;}
     .m08 .container .txt {flex: 1;display: flex;align-items: center;padding:0 20px 20px 20px;}
-    .m08 .container .mockup figure {background: url(./assets/img/tvmockup2.png) no-repeat center top/contain;height: 300px;padding: 80px 79px 0 80px;}
+    .m08 .container .mockup figure {background: url(./assets/img/tvmockup2.png) no-repeat center top/contain;height: 300px;padding: 85px 96px 0 96px;}
     .m08 .container .mockup figure .web {height: 130px;overflow: hidden;}
     .m08 .container .mockup figure iframe {height: 130px;}
 
