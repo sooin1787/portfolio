@@ -82,9 +82,11 @@ body {font-family: 'Open Sans','Noto Sans KR', sans-serif;}
 .m02 .container .mockup figure .portfolio01 {height: 400px;}
 
 .m02 .txt h3 {font-size: 60px;font-family: 'East Sea Dokdo', cursive;margin-bottom: 30px;}
-.m02 .txt p {font-size: 14px;font-weight: 300;line-height: 1.4;margin-bottom: 30px;}
+.m02 .txt h3 i {font-size: 28px;margin-left: 30px;}
+.m02 .txt p {font-size: 16px;font-weight: 300;line-height: 1.4;margin-bottom: 30px;}
 .m02 .txt ul {line-height: 1.4;margin-bottom: 30px;}
-.m02 .txt i {font-size: 40px; color: #fff;margin-right: 15px;}
+.m02 .txt i {font-size: 40px; color: #fff;margin-right: 15px;margin-bottom: 30px;}
+
 
 
 
@@ -101,6 +103,7 @@ body {font-family: 'Open Sans','Noto Sans KR', sans-serif;}
     .m02 .container .mockup figure .portfolio01 {height: 200px;}
 
     .m02 .txt h3 {font-size: 40px;font-family: 'East Sea Dokdo', cursive;margin-bottom: 20px;}
+    .m02 .txt h3 i {display: none;}
     .m02 .txt p {font-size: 14px;font-weight: 300;line-height: 1.4;margin-bottom: 20px;}
     .m02 .txt ul {line-height: 1.4;margin-bottom: 10px;}
     .m02 .txt i {font-size: 30px; color: #fff;margin-right: 10px;}
@@ -121,25 +124,26 @@ body {font-family: 'Open Sans','Noto Sans KR', sans-serif;}
 .m03 .container .mockup figure .portfolio02 {height: 400px;}
 
 .m03 .txt h3 {font-size: 60px;margin-bottom: 30px;font-family: 'Allison', cursive;}
-.m03 .txt p {font-size: 14px;font-weight: 300;line-height: 1.4;margin-bottom: 30px;}
+.m03 .txt h3 i {font-size: 28px;margin-left: 30px;}
+.m03 .txt p {font-size: 16px;font-weight: 300;line-height: 1.4;margin-bottom: 30px;}
 .m03 .txt ul {line-height: 1.4;margin-bottom: 30px;}
-.m03 .txt i {font-size: 40px; color: #fff;margin-right: 15px;}
+.m03 .txt i {font-size: 40px; color: #fff;margin-right: 15px;margin-bottom: 30px;}
 .m03 .txt .spec {margin-left: auto;}
-
 
 
 @media (max-width:768px) {
     .m03 {background:#f4f4f4 url(./assets/img/졸작.jpg);position: relative;height: 100vh;}
     .m03 .container {display: flex;flex-direction: column;width: auto;margin: 0 auto;}
 
-    .m03 .container .mockup {flex: 1}
+    .m03 .container .mockup {flex: 1;}
     .m03 .container .txt {flex: 1;order:1;display: flex;align-items: center;padding: 0 20px 20px 20px;text-align: center;}
 
     .m03 .container .mockup figure {height: 300px;padding: 50px 30px 0 30px;}
 
     .m03 .container .mockup figure .portfolio02 {height: 200px;}
 
-    .m03 .txt h3 {font-size: 40px;margin-bottom: 20px;font-family: 'Allison', cursive;}
+    .m03 .txt h3 {font-size: 40px;margin-bottom: 10px;font-family: 'Allison', cursive;}
+    .m03 .txt h3 i {display: none;}
     .m03 .txt p {font-size: 14px;font-weight: 300;line-height: 1.4;margin-bottom: 20px;}
     .m03 .txt ul {line-height: 1.4;margin-bottom: 10px;}
     .m03 .txt i {font-size: 30px; color: #fff;margin-right: 10px;}
@@ -159,7 +163,8 @@ body {font-family: 'Open Sans','Noto Sans KR', sans-serif;}
 .m04 .container .mockup figure .portfolio03 {height: 400px;}
 
 .m04 .txt h3 {font-size: 60px;margin-bottom: 30px;font-family: 'Allison', cursive;}
-.m04 .txt p {font-size: 14px;font-weight: 300;line-height: 1.4;margin-bottom: 30px;}
+.m04 .txt h3 i {font-size: 28px;margin-left: 30px;}
+.m04 .txt p {font-size: 16px;font-weight: 300;line-height: 1.4;margin-bottom: 30px;}
 .m04 .txt ul {line-height: 1.4;margin-bottom: 30px;}
 .m04 .txt i {font-size: 40px; color: #fff;margin-right: 15px;}
 
@@ -178,6 +183,7 @@ body {font-family: 'Open Sans','Noto Sans KR', sans-serif;}
     .m04 .container .mockup figure .portfolio03 {height: 200px;}
 
     .m04 .txt h3 {font-size: 40px;margin-bottom: 20px;font-family: 'Allison', cursive;}
+    .m04 .txt h3 i {display: none;}
     .m04 .txt p {font-size: 14px;font-weight: 300;line-height: 1.4;margin-bottom: 20px;}
     .m04 .txt ul {line-height: 1.4;margin-bottom: 10px;}
     .m04 .txt i {font-size: 30px; color: #fff;margin-right: 10px;}
@@ -198,7 +204,8 @@ body {font-family: 'Open Sans','Noto Sans KR', sans-serif;}
 .m05 .container .mockup figure .portfolio04 {height: 400px;}
 
 .m05 .txt h3 {font-size: 60px;margin-bottom: 30px;font-family: 'Allison', cursive;}
-.m05 .txt p {font-size: 14px;font-weight: 300;line-height: 1;margin-bottom: 30px;}
+.m05 .txt h3 i {font-size: 28px;margin-left: 30px;}
+.m05 .txt p {font-size: 16px;font-weight: 300;line-height: 1.4;margin-bottom: 30px;}
 .m05 .txt ul {line-height: 1.4;margin-bottom: 30px;}
 .m05 .txt i {font-size: 40px; color: #fff;margin-right: 15px;}
 .m05 .txt .spec {margin-left: auto;}
@@ -218,6 +225,7 @@ body {font-family: 'Open Sans','Noto Sans KR', sans-serif;}
     .m05 .container .mockup figure .portfolio04 {height: 200px;}
 
     .m05 .txt h3 {font-size: 40px;margin-bottom: 20px;}
+    .m05 .txt h3 i {display: none;}
     .m05 .txt p {font-size: 14px;font-weight: 300;line-height: 1.4;margin-bottom: 20px;}
     .m05 .txt ul {line-height: 1.4;margin-bottom: 10px;}
     .m05 .txt i {font-size: 30px; color: #fff;margin-right: 10px;}
@@ -242,7 +250,7 @@ body {font-family: 'Open Sans','Noto Sans KR', sans-serif;}
 .m06 .container .mockup figure .web:hover img {transform: translateY(calc(-100% + 400px));}
 
 .m06 .txt h3 {font-size: 60px;margin-bottom: 30px;font-family: 'Allison', cursive;}
-.m06 .txt p {font-size: 14px;font-weight: 300;line-height: 1.4;margin-bottom: 30px;}
+.m06 .txt p {font-size: 16px;font-weight: 300;line-height: 1.4;margin-bottom: 30px;}
 .m06 .txt ul {line-height: 1.4;margin-bottom: 30px;}
 .m06 .txt i {font-size: 40px; color: #fff;background: #333;padding: 10px;border-radius: 50%;margin-right: 15px;}
 
@@ -401,22 +409,28 @@ body {font-family: 'Open Sans','Noto Sans KR', sans-serif;}
 .m09 .container {display: flex;justify-content: space-between;width: 1400px;margin: 0 auto;}
 .m09 .container .s_profile .info {display: flex;font-size: 14px;font-weight: 300;line-height: 1.4;margin-bottom: 60px;}
 .m09 .container .s_profile .info li {margin-right: 100px;}
+
 .m09 .container figure {width: 150px;border-radius: 50%;overflow: hidden;border: 3px solid #333;}
-.m09 .container figure img {width: 100%;}
-.m09 .container h2 {font-size: 30px;font-weight: 600;margin-bottom: 30px;}
-.m09 .container p {font-size: 14px;font-weight: 300;margin-bottom: 20px;}
+.m09 .container figure img {width: 100%;cursor: pointer;}
+
+.m09 .container i {margin-bottom: 50px;}
+.m09 .container h2 {font-family: 'Open Sans', sans-serif;font-size: 30px;font-weight: 600;margin-bottom: 20px;}
+.m09 .container p {font-size: 14px;font-weight: 300;}
 
 
 @media (max-width:768px) {
     
-    .m09 {position: relative;background:#f7f7f7 url(./assets/img/bg02.png);padding: 50px 0;text-align: center;}
+    .m09 {position: relative;background:#f7f7f7 url(./assets/img/bg02.png);padding: 60px 0;text-align: center;}
     .m09 .container {display: flex;flex-direction: column;justify-content: space-between;width: auto;margin: 0 auto;}
     .m09 .container .s_profile .info {display: flex;font-size: 14px;font-weight: 300;line-height: 1.4;margin-bottom: 60px;}
     .m09 .container .s_profile .info li {margin:0 30px;}
-    .m09 .container figure {width: 150px;border-radius: 50%;overflow: hidden;border: 3px solid #333;margin: 30px auto;}
+
+    .m09 .container figure {width: 150px;border-radius: 50%;overflow: hidden;border: 3px solid #333;margin:auto;}
     .m09 .container figure img {width: 100%;cursor: pointer;}
-    .m09 .container h2 {font-size: 40px;font-weight: 500;margin-bottom: 20px;}
-    .m09 .container p {font-size: 14px;font-weight: 100;}
+
+    .m09 .container h2 {font-family: 'Open Sans', sans-serif;font-size: 40px;font-weight: 300;margin-bottom: 50px;}
+    .m09 .container p {font-size: 14px;font-weight: 100;line-height: 1;}
+    .m09 .container li {display:none;}
 
 }
 
@@ -427,15 +441,15 @@ body {font-family: 'Open Sans','Noto Sans KR', sans-serif;}
 #full {position: fixed;top: 0;left: 0;width: 100%;height: 0;overflow: hidden;background:#f4f4f4 url(./assets/img/bg02.png);transition: 0.5s;z-index: 1000;}
 #full .container {display: flex;width: 1300px;position: absolute;top: 50%;left: 50%;transform: translate(-50%,-50%);}
 
-#full .container>* {padding: 0 30px;}
-#full .container img {border-radius: 50%;}
+#full .container>* {padding: 0 100px;}
+#full .container img {border-radius: 50%;width: 250px;}
 #full .b_profile {display: flex;align-items: center;}
 
-#full .b_profile h2 {font-size: 30px;font-weight: 300;margin-bottom: 20px;font-family: 'Allison', cursive;}
-#full .b_profile p {font-size: 14px;font-weight: 100;margin-bottom: 20px;}
+#full .b_profile h2 {font-size: 50px;font-weight: 300;margin-bottom: 20px;font-family: 'Allison', cursive;}
+#full .b_profile p {font-size: 16px;margin-bottom: 20px;font-weight: 300;;line-height: 1.4;}
 
 
-#full .b_profile li {line-height: 30px;transition: 0.3;}
+#full .b_profile li {line-height: 30px;transition: 0.3;margin-left: 100px;}
 #full .b_profile li:hover {color: #ff5100;}
 #full .b_profile li:before {content: "\e9b2";font-family: xeicon!important;margin-right:10px;transition: 0.3s;}
 #full .b_profile li:hover:before {content: "\e9b1";font-family: xeicon!important;margin-right:20px;}
@@ -452,15 +466,15 @@ body {font-family: 'Open Sans','Noto Sans KR', sans-serif;}
     #full {position: fixed;top: 0;left: 0;width: 100%;height: 0;overflow: hidden;background:#f4f4f4 url(./assets/img/bg02.png);transition: 0.5s;text-align: center;z-index: 1000;}
     #full .container {display: flex;flex-direction: column;width: auto;position: absolute;top: 50%;left: 50%;transform: translate(-50%,-50%);width: 100%;}
     
-    #full .container>* {padding: 0 40px;}
-    #full .container img {width: 50px;border-radius: 50%;border: 1px solid #333;}
+    #full .container>* {padding: 0 50px;}
+    #full .container img {width: 60px;border-radius: 50%;border: 1px solid #333;margin-bottom: 30px;}
     #full .b_profile {display: flex;align-items: center;}
     
-    #full .b_profile h2 {font-size: 30px;font-weight: 300;margin-bottom: 20px;font-family: 'Allison', cursive;}
+    #full .b_profile h2 {font-size: 50px;font-weight: 300;margin-bottom: 20px;font-family: 'Allison', cursive;}
     #full .b_profile p {font-size: 14px;font-weight: 100;margin-bottom: 20px;}
     
     
-    #full .b_profile li {line-height: 30px;transition: 0.3;}
+    #full .b_profile li {display: none;line-height: 30px;transition: 0.3;}
     #full .b_profile li:hover {color: #ff5100;}
     #full .b_profile li:before {content: "\e9b2";font-family: xeicon!important;margin-right:10px;transition: 0.3s;}
     #full .b_profile li:hover:before {content: "\e9b1";font-family: xeicon!important;margin-right:20px;}
