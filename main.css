@@ -409,7 +409,7 @@ body {font-family: 'Open Sans','Noto Sans KR', sans-serif;}
 .m09 .container .s_profile .info {display: flex;font-size: 14px;font-weight: 300;line-height: 1.4;margin-bottom: 60px;}
 .m09 .container .s_profile .info li {margin-right: 100px;}
 
-.m09 .container figure {width: 150px;border-radius: 50%;overflow: hidden;border: 3px solid #333;}
+.m09 .container figure {height: 150px;width: 150px;border-radius: 50%;overflow: hidden;border: 3px solid #333;}
 .m09 .container figure img {width: 100%;cursor: pointer;}
 
 .m09 .container i {margin-bottom: 50px;}
