@@ -194,6 +194,7 @@ $("#webbg").YTPlayer({
     //abundance: 0,
     useOnMobile: true,
     startAt:6,
+    cc_load_policy:false,
 });
 
 
