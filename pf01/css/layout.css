@@ -181,7 +181,7 @@ body {font-family: 'Noto Sans KR', sans-serif;}
 
 #con03 .container .txt h2 {font-size: 30px;font-weight: 700;margin-bottom: 20px;}
 #con03 .container .txt p {font-size: 14px;font-weight: 300;margin-bottom: 30px;line-height: 1.4;}
-#con03 .container .txt i {font-size: 24px;color: #fff;background: #333;border-radius: 5px;padding: 10px;}
+#con03 .container .txt i {font-size: 24px;color: #fff;background: #333;border-radius: 5px;padding: 10px;cursor:pointer;}
 
 
 
@@ -239,7 +239,7 @@ body {font-family: 'Noto Sans KR', sans-serif;}
 
 #con05 .container .txt h2 {font-size: 30px;font-weight: 700;margin-bottom: 20px;}
 #con05 .container .txt p {font-size: 14px;font-weight: 300;margin-bottom: 30px;line-height: 1.4;}
-#con05 .container .txt i {font-size: 24px;color: #fff;background: #333;border-radius: 5px;padding: 10px;}
+#con05 .container .txt i {font-size: 24px;color: #fff;background: #333;border-radius: 5px;padding: 10px;cursor:pointer;}
 
 
 @media (max-width:768px) {
@@ -264,7 +264,7 @@ body {font-family: 'Noto Sans KR', sans-serif;}
 #con06 {padding: 100px 0;text-align: center;color: #fff;background: url(../../assets/img/visual03.jpg) no-repeat center center/cover;background-attachment: fixed;filter: grayscale(1);}
 #con06 h2 {font-size: 30px;font-weight: 700;margin-bottom: 20px;}
 #con06 p {font-size: 14px;font-weight: 300;margin-bottom: 10px;}
-#con06 i {font-size: 24px;color: #fff;background: #333;border-radius: 5px;padding: 10px;}
+#con06 i {font-size: 24px;color: #fff;background: #333;border-radius: 5px;padding: 10px;cursor:pointer;}
 
 
 
@@ -291,12 +291,12 @@ body {font-family: 'Noto Sans KR', sans-serif;}
 #con07 .product_slider figure {padding: 0 15px;}
 #con07 .product_slider img {width: 100%;}
 
-#con07 .arrows i {position: absolute;top: 40%;left: 50%;transform: translateX(-50%);font-size: 40px;}
+#con07 .arrows i {position: absolute;top: 40%;left: 50%;transform: translateX(-50%);font-size: 40px;cursor:pointer;}
 #con07 .arrows .xi-angle-left-thin {margin-left: -700px;}
 #con07 .arrows .xi-angle-right-thin {margin-left: 700px;}
 
 #con07 .slick-dots {display: flex;justify-content: center;padding: 15px 0;}
-#con07 .slick-dots li {background: #333;width: 10px;height: 10px;border-radius: 50%;margin: 0 4px;}
+#con07 .slick-dots li {background: #333;width: 10px;height: 10px;border-radius: 50%;margin: 0 4px;cursor:pointer;}
 #con07 .slick-dots li.slick-active {transform: scale(1.6);background: #f00;}
 #con07 .slick-dots li button {display: none;}
 
