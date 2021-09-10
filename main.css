@@ -467,7 +467,7 @@ body {font-family: 'Open Sans','Noto Sans KR', sans-serif;}
     
     #full .container>* {padding: 0 50px;}
     #full .container img {width: 60px;border-radius: 50%;border: 1px solid #333;margin-bottom: 30px;}
-    #full .b_profile {display: flex;align-items: center;}
+    #full .b_profile {margin: 0 auto;display: flex;align-items: center;}
     
     #full .b_profile h2 {font-size: 50px;font-weight: 300;margin-bottom: 20px;font-family: 'Allison', cursive;}
     #full .b_profile p {font-size: 14px;font-weight: 100;margin-bottom: 20px;}
