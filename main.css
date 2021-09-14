@@ -79,7 +79,7 @@ body {font-family: 'Open Sans','Noto Sans KR', sans-serif;}
 
 .m02 .container .mockup figure {height: 720px;padding: 150px 100px 100px 100px;}
 
-.m02 .container .mockup figure .portfolio01 {height: 400px;}
+.m02 .container .mockup figure .portfolio01 {padding-bottom: 56.25%;height: auto;}
 
 .m02 .txt h3 {font-size: 60px;font-family: 'East Sea Dokdo', cursive;margin-bottom: 30px;}
 .m02 .txt h3 i {font-size: 28px;margin-left: 30px;}
@@ -99,7 +99,7 @@ body {font-family: 'Open Sans','Noto Sans KR', sans-serif;}
 
     .m02 .container .mockup figure {height: 300px;padding: 50px 30px 0 30px;}
 
-    .m02 .container .mockup figure .portfolio01 {height: 200px;}
+    .m02 .container .mockup figure .portfolio01 {padding-bottom: 56.25%;height: auto;}
 
     .m02 .txt h3 {font-size: 40px;font-family: 'East Sea Dokdo', cursive;margin-bottom: 20px;}
     .m02 .txt h3 i {display: none;}
@@ -120,7 +120,7 @@ body {font-family: 'Open Sans','Noto Sans KR', sans-serif;}
 
 .m03 .container .mockup figure {height: 720px;padding: 150px 100px 100px 100px;}
 
-.m03 .container .mockup figure .portfolio02 {height: 400px;}
+.m03 .container .mockup figure .portfolio02 {padding-bottom: 56.25%;height: auto;}
 
 .m03 .txt h3 {font-size: 60px;margin-bottom: 30px;font-family: 'Allison', cursive;}
 .m03 .txt h3 i {font-size: 28px;margin-left: 30px;}
@@ -139,7 +139,7 @@ body {font-family: 'Open Sans','Noto Sans KR', sans-serif;}
 
     .m03 .container .mockup figure {height: 300px;padding: 50px 30px 0 30px;}
 
-    .m03 .container .mockup figure .portfolio02 {height: 200px;}
+    .m03 .container .mockup figure .portfolio02 {padding-bottom: 56.25%;height: auto;}
 
     .m03 .txt h3 {font-size: 40px;margin-bottom: 10px;font-family: 'Allison', cursive;}
     .m03 .txt h3 i {display: none;}
@@ -159,7 +159,7 @@ body {font-family: 'Open Sans','Noto Sans KR', sans-serif;}
 
 .m04 .container .mockup figure {height: 720px;padding: 150px 100px 100px 100px;}
 
-.m04 .container .mockup figure .portfolio03 {height: 400px;}
+.m04 .container .mockup figure .portfolio03 {padding-bottom: 56.25%;height: auto;}
 
 .m04 .txt h3 {font-size: 60px;margin-bottom: 30px;font-family: 'Allison', cursive;}
 .m04 .txt h3 i {font-size: 28px;margin-left: 30px;}
@@ -179,7 +179,7 @@ body {font-family: 'Open Sans','Noto Sans KR', sans-serif;}
 
     .m04 .container .mockup figure {height: 300px;padding: 50px 30px 0 30px;}
 
-    .m04 .container .mockup figure .portfolio03 {height: 200px;}
+    .m04 .container .mockup figure .portfolio03 {padding-bottom: 56.25%;height: auto;}
 
     .m04 .txt h3 {font-size: 40px;margin-bottom: 20px;font-family: 'Allison', cursive;}
     .m04 .txt h3 i {display: none;}
@@ -200,7 +200,7 @@ body {font-family: 'Open Sans','Noto Sans KR', sans-serif;}
 
 .m05 .container .mockup figure {height: 720px;padding: 150px 100px 100px 100px;}
 
-.m05 .container .mockup figure .portfolio04 {height: 400px;}
+.m05 .container .mockup figure .portfolio04 {padding-bottom: 56.25%;height: auto;}
 
 .m05 .txt h3 {font-size: 60px;margin-bottom: 30px;font-family: 'Allison', cursive;}
 .m05 .txt h3 i {font-size: 28px;margin-left: 30px;}
@@ -221,7 +221,7 @@ body {font-family: 'Open Sans','Noto Sans KR', sans-serif;}
 
     .m05 .container .mockup figure {height: 300px;padding: 50px 30px 0 30px;}
 
-    .m05 .container .mockup figure .portfolio04 {height: 200px;}
+    .m05 .container .mockup figure .portfolio04 {padding-bottom: 56.25%;height: auto;}
 
     .m05 .txt h3 {font-size: 40px;margin-bottom: 20px;}
     .m05 .txt h3 i {display: none;}
@@ -341,9 +341,9 @@ body {font-family: 'Open Sans','Noto Sans KR', sans-serif;}
     .m07 .slick-dots li.slick-active:after {width: 100%;transition: 4s;}
     .m07 .slick-dots button {display: none;}
     
-    .m07 i {position: absolute;top: 50%;left:auto;transform: translate(0,-50%);font-size: 30px;background: #333;color: #fff;padding: 10px;}
-    .m07 i.xi-arrow-left {margin-left:0 ;left: 0;cursor: pointer}
-    .m07 i.xi-arrow-right {margin-left:0 ;right: 0;cursor: pointer}
+    .m07 i {position: absolute;top: 50%;left:auto;transform: translate(0,-50%);font-size: 20px;background: #ff5d8b;color: #fff;padding: 10px;}
+    .m07 i.xi-angle-left {margin-left:0 ;left: 0;cursor: pointer}
+    .m07 i.xi-angle-right {margin-left:0 ;right: 0;cursor: pointer}
 
     .m07 a {position: absolute;top: 88%;left: 50%;transform: translate(-50%,-50%);display: block;width: 150px;line-height: 40px;padding: 0 15px;background: #ff5d8b;color: #fff;border-radius: 0 15px 15px 0;transition: 0.5s;}
     .m07 a:after {content: "";display: block;width: 30px;height: 30px;background: #fff;border-radius: 50%;position: absolute;top: 5px;right: 35px;opacity: 0;transition: 0.5s;}
