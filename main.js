@@ -55,19 +55,18 @@ $(".m02 .xi-pause-circle-o").on("click", function(){
 });
 
 
-$("#portfolio01").YTPlayer({
-    containment:'.portfolio01',
-    autoPlay:true,
-    mute:true,
-    startAt:0,
-    showControls: false,
-    playOnlyIfVisible: true,
-    optimizeDisplay: false,
+
+// $(".m02 .xi-volume-up").on("click", function(){
+//     $("#portfolio01").YTPUnmute();
+// });
+
+
+$(".m02 .xi-volume-up").on("click", function(){
+    $("#portfolio01").YTPToggleVolume();
 });
 
-$(".m02 .xi-play-circle-o").on("click", function(){
-    $("#portfolio01").YTPPlay();
-});
+
+
 
 
 
@@ -106,7 +105,9 @@ $(".m03 .xi-play-circle-o").on("click", function(){
 });
 
 
-
+$(".m03 .xi-volume-up").on("click", function(){
+    $("#portfolio02").YTPToggleVolume();
+});
 
 
 
@@ -141,6 +142,9 @@ $(".m04 .xi-play-circle-o").on("click", function(){
 });
 
 
+$(".m04 .xi-volume-up").on("click", function(){
+    $("#portfolio03").YTPToggleVolume();
+});
 
 
 
@@ -174,6 +178,11 @@ $("#portfolio04").YTPlayer({
 
 $(".m05 .xi-play-circle-o").on("click", function(){
     $("#portfolio04").YTPPlay();
+});
+
+
+$(".m05 .xi-volume-up").on("click", function(){
+    $("#portfolio04").YTPToggleVolume();
 });
 
 

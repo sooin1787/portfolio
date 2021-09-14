@@ -85,7 +85,7 @@ body {font-family: 'Open Sans','Noto Sans KR', sans-serif;}
 .m02 .txt h3 i {font-size: 28px;margin-left: 30px;}
 .m02 .txt p {font-size: 16px;font-weight: 300;line-height: 1.4;margin-bottom: 30px;}
 .m02 .txt ul {line-height: 1.4;margin-bottom: 30px;}
-.m02 .txt i {font-size: 40px; color: #fff;margin-right: 15px;margin-bottom: 30px;}
+.m02 .txt i {font-size: 40px; color: #fff;margin-right: 15px;margin-bottom: 30px;cursor: pointer;}
 
 
 
@@ -126,7 +126,7 @@ body {font-family: 'Open Sans','Noto Sans KR', sans-serif;}
 .m03 .txt h3 i {font-size: 28px;margin-left: 30px;}
 .m03 .txt p {font-size: 16px;font-weight: 300;line-height: 1.4;margin-bottom: 30px;}
 .m03 .txt ul {line-height: 1.4;margin-bottom: 30px;}
-.m03 .txt i {font-size: 40px; color: #fff;margin-right: 15px;margin-bottom: 30px;}
+.m03 .txt i {font-size: 40px; color: #fff;margin-right: 15px;margin-bottom: 30px;cursor: pointer;}
 .m03 .txt .spec {margin-left: auto;}
 
 
@@ -162,7 +162,7 @@ body {font-family: 'Open Sans','Noto Sans KR', sans-serif;}
 .m04 .container .mockup figure .portfolio03 {padding-bottom: 56.25%;height: auto;}
 
 .m04 .txt h3 {font-size: 60px;margin-bottom: 30px;font-family: 'Allison', cursive;}
-.m04 .txt h3 i {font-size: 28px;margin-left: 30px;}
+.m04 .txt h3 i {font-size: 28px;margin-left: 30px;cursor: pointer;}
 .m04 .txt p {font-size: 16px;font-weight: 300;line-height: 1.4;margin-bottom: 30px;}
 .m04 .txt ul {line-height: 1.4;margin-bottom: 30px;}
 .m04 .txt i {font-size: 40px; color: #fff;margin-right: 15px;}
@@ -206,7 +206,7 @@ body {font-family: 'Open Sans','Noto Sans KR', sans-serif;}
 .m05 .txt h3 i {font-size: 28px;margin-left: 30px;}
 .m05 .txt p {font-size: 16px;font-weight: 300;line-height: 1.4;margin-bottom: 30px;}
 .m05 .txt ul {line-height: 1.4;margin-bottom: 30px;}
-.m05 .txt i {font-size: 40px; color: #fff;margin-right: 15px;}
+.m05 .txt i {font-size: 40px; color: #fff;margin-right: 15px;cursor: pointer;cursor: pointer;}
 .m05 .txt .spec {margin-left: auto;}
 
 
