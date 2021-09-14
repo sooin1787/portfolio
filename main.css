@@ -341,7 +341,7 @@ body {font-family: 'Open Sans','Noto Sans KR', sans-serif;}
     .m07 .slick-dots li.slick-active:after {width: 100%;transition: 4s;}
     .m07 .slick-dots button {display: none;}
     
-    .m07 i {position: absolute;top: 50%;left:auto;transform: translate(0,-50%);font-size: 20px;background: #ff5d8b;color: #fff;padding: 10px;}
+    .m07 i {position: absolute;top: 50%;left:auto;transform: translate(0,-50%);font-size: 25px;background: #ff5d8b;color: #fff;padding: 10px;}
     .m07 i.xi-angle-left {margin-left:0 ;left: 0;cursor: pointer}
     .m07 i.xi-angle-right {margin-left:0 ;right: 0;cursor: pointer}
 
