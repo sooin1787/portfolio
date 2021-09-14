@@ -95,7 +95,7 @@ body {font-family: 'Open Sans','Noto Sans KR', sans-serif;}
     .m02 .container {display: flex;flex-direction: column;width: auto;margin: 0 auto;}
 
     .m02 .container .mockup {flex: 1}
-    .m02 .container .txt {flex:1 ;display: flex;align-items: center;padding: 0 20px 20px 20px;text-align: center;color: #fff}
+    .m02 .container .txt {flex:1 ;display: block;align-items: center;padding: 0 20px 20px 20px;text-align: center;color: #fff}
 
     .m02 .container .mockup figure {height: 300px;padding: 50px 30px 0 30px;}
 
